@@ -1,6 +1,6 @@
 # radar
 this project can scan the space with 1m diameter and make a sound and warning message on the  screen 
-Hardware description: 
+Hardware description:	
 1-ultrasonic 
 2-servomotor 
 3-buzzer
